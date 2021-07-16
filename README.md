@@ -7,8 +7,12 @@ A simple project that demonstrates React, Node.js and MySQL in action.
   <img style="align: center;" src="https://github.com/osmannkartall/react-nodejs_express-mysql/blob/master/docs/architecture.png" />
 </p>
 
-**Client:** React, React Material UI<br>
-**Server:** Node, Express<br>
+**Client:** React
+- [material-ui](https://github.com/mui-org/material-ui): components(Table, inputs ...)
+
+**Server:** Node
+- [express](https://github.com/expressjs/express): http server
+
 **Database:** MySQL
 ## Instructions
 
