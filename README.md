@@ -16,10 +16,12 @@ A simple project that demonstrates React, Node.js and MySQL in action.
 **Database:** MySQL
 ## Instructions
 
-Clone the project.
+* Clone the project.
 ```bash
   git clone https://github.com/osmannkartall/react-nodejs_express-mysql
 ```
+
+* Install [Node.js and npm](https://nodejs.org/en/download/) if you haven't already.
 
 #### MySQL
 
