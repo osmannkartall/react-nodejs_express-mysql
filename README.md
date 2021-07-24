@@ -66,6 +66,11 @@ Start the project.
 
 #### Node.js
 
+Install nodemon globally.
+```bash
+  npm install -g nodemon
+```
+
 Install dependencies with npm.
 ```bash
   cd react-nodejs_express-mysql/server
@@ -75,6 +80,9 @@ Install dependencies with npm.
 Start the project.
 ```bash
   nodemon app.js
+  
+  # Note: If nodemon command not found you may need to add the global prefix to path variable.
+  # You can run "npm prefix -g" command to get the global prefix.
 ```
 ## Demo
 
